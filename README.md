@@ -18,7 +18,7 @@
 
 ## Get in Touch
 - 📧 You can reach me via email at [aroramanas01@gmail.com](mailto:aroramanas01@gmail.com).
-- 🐦 Follow me on Twitter [@arora_manas_01](https://twitter.com/arora_manas_01).
+- 🐦 Follow me on Twitter [@arora_manas_01](https://twitter.com/manas_arora_01).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aroramanas01).
 
 Let's collaborate and create something amazing together!
