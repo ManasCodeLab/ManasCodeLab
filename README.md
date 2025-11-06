@@ -1,7 +1,7 @@
 # Hi there, I'm Manas Arora 👋
 
 ## About Me
-- 🎓 I'm currently in my second year of B.Tech in Computer Science and Engineering at [DIT University, Dehradun](https://www.dituniversity.edu.in/).
+- 🎓 I'm currently in my third year of B.Tech in Computer Science and Engineering at [DIT University, Dehradun](https://www.dituniversity.edu.in/).
 - 💻 I have a strong interest in Python programming and web development.
 - 🌱 I’m always learning new things and improving my skills.
 
@@ -24,6 +24,11 @@
 Let's collaborate and create something amazing together!
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koshika31&show_icons=true&theme=tokyonight" alt="Koshika's GitHub stats" />
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manascodelab&color=blue&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=67623029)
