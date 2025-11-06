@@ -26,7 +26,7 @@ Let's collaborate and create something amazing together!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koshika31&show_icons=true&theme=tokyonight" alt="Koshika's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manascodelab&show_icons=true&theme=tokyonight" alt="Koshika's GitHub stats" />
 </p>
 
 
